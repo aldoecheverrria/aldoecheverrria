@@ -2,7 +2,7 @@
 - 👀 I’m interested in working with ReactJS and the ecosystem, like JS, CSS, and HTML, and of course, github.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me, at aldoecheverria.com and other social networks as aldoecheverria or aldoecheverriac.
+- 📫 How to reach me, at [aldoecheverria.com](https://aldoecheverria2.netlify.app) and other social networks as aldoecheverria or aldoecheverriac.
 Thanks for reading!
 
 <!---
