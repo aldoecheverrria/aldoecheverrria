@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aldoecheverrria
 - 👀 I’m interested in working with ReactJS and the ecosystem, like JS, CSS, and HTML, and of course, Git.
-- 🌱 I’m currently learning more about ReactJS, ES.Next, NextJS, Tailwind.
-- 💞️ I’m looking to collaborate on Web development
+- 🌱 I’m currently working as a web developer in the Metropolitan University Center (Yucatán) using ReactJS, ES.Next, NextJS, Tailwind.
+- 💞️ I’m looking to collaborate more on Web development projects
 - 📫 How to reach me, at [aldoecheverria.com](https://aldoecheverria2.netlify.app) and other social networks as aldoecheverria or aldoecheverriac.
 Thanks for reading!
 
