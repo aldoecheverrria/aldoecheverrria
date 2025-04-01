@@ -1,9 +1,36 @@
-- 👋 Hi, I’m @aldoecheverrria
-- 👀 I’m interested in working with ReactJS and the ecosystem, like JS, CSS, and HTML, and of course, Git.
-- 🌱 I’m currently working as a web developer in the Metropolitan University Center (Yucatán) using ReactJS, ES.Next, NextJS, Tailwind.
-- 💞️ I’m looking to collaborate more on Web development projects
-- 📫 How to reach me, at [aldoecheverria.com](https://aldoecheverria2.netlify.app) and other social networks as aldoecheverria or aldoecheverriac.
-Thanks for reading!
+# 👋 Hi, I’m @aldoecheverria
+
+I'm a passionate frontend developer focused on building modern, scalable, and user-centered web applications.
+
+## 🧠 What I'm Working On
+🚀 Currently developing a custom HR system for **CUME (Centro Universitario Metropolitano)**  
+💼 Stack includes:
+- **ReactJS** with **Hooks**
+- **TailwindCSS** for modern UI
+- **Firebase** for authentication, Firestore database, and storage
+- **Role-based access control** (Directivo / NoDirectivo)
+- **Netlify** for CI/CD & live deployments
+
+## 🔧 Tools & Technologies
+- 🔥 ReactJS, JavaScript (ES.Next), HTML, CSS
+- 🎨 TailwindCSS, responsive layouts
+- 🌐 Firebase Auth & Firestore
+- 💻 Git & GitHub for version control
+- 🌍 Deployed projects using Netlify
+
+## 🤝 I'm looking to collaborate on...
+- Web dashboards
+- Internal admin tools
+- Firebase-integrated apps
+- Open Source React projects
+
+## 📫 How to reach me:
+- 🌐 [aldoecheverria.com](https://aldoecheverria2.netlify.app)
+- 🧑‍💻 Twitter, LinkedIn, GitHub → **@aldoecheverria** or **@aldoecheverriac**
+
+---
+
+Thanks for visiting my profile! 🙌
 
 <!---
 aldoecheverrria/aldoecheverrria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
